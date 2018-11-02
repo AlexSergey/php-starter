@@ -6,3 +6,4 @@ PHP boilerplate without framework
 - php-router - Router
 - bladeone - Blade templates support
 - phpdotenv - Support dot configs
+- phinx - Work with Database

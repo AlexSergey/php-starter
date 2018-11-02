@@ -4,6 +4,7 @@
         "slashtrace/slashtrace": "^1.1",
         "dannyvankooten/php-router": "dev-master",
         "eftec/bladeone": "^3.13@dev",
-        "vlucas/phpdotenv": "^2.5@dev"
+        "vlucas/phpdotenv": "^2.5@dev",
+        "robmorgan/phinx": "dev-master"
     }
 }
