@@ -5,6 +5,7 @@
         "bramus/router": "~1.3",
         "eftec/bladeone": "^3.13@dev",
         "vlucas/phpdotenv": "^2.5@dev",
-        "robmorgan/phinx": "dev-master"
+        "robmorgan/phinx": "dev-master",
+        "webmozart/json": "1.2.2"
     }
 }
